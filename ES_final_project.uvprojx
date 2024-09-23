@@ -409,6 +409,16 @@
               <FileType>4</FileType>
               <FilePath>.\lib\ES.lib</FilePath>
             </File>
+            <File>
+              <FileName>positioning.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\lib\positioning.c</FilePath>
+            </File>
+            <File>
+              <FileName>positioning.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\lib\positioning.h</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>

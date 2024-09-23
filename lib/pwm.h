@@ -25,4 +25,7 @@ extern void PWM6_init();
 extern void PWM6_setup(int freq, int duty_percent);
 extern void PWM6_pulse_width(int micro_sec);
 
+extern void PWM_block_setup(int block);
+	
+
 #endif
